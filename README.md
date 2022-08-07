@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Debonair321
 - 👀 I’m interested in starting out as Front-End then transition to Full-Stack as I learn more!
-- 🌱 I’m currently learning steps in The Odin Project
+- 🌱 I’m currently studying with The Odin Project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
